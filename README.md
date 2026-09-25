@@ -35,7 +35,7 @@ Number-Guessing-Game/
 ## ⚙️ Installation
 
 Clone the repository:
-git clone 
+git clone https://github.com/srishivi05-da/number-guessing-game.git
 
 Move into the project folder:
 cd number-guessing-game
